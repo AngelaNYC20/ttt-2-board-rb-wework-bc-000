@@ -10,22 +10,3 @@ puts "   |   | "
 
 end 
 
-
-
-
-
-
-#lib/board.rb = board 
-
-board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
- puts row[ ]
- puts row[ ]
- puts row[ ]
- puts row[ ]
- puts row[ ]
- puts row[ ]
- puts row[ ]
- puts row[ ]
- puts row[ ]
-end 
-#
