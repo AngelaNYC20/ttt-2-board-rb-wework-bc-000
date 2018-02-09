@@ -11,3 +11,5 @@ row = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
  puts row[ ]
  puts row[ ]
 board = lib/board.rb
+
+end 
