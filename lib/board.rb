@@ -1,15 +1,15 @@
 # Define the variable board below.
 
-row = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
- puts row[ ]
- puts row[ ]
- puts row[ ]
- puts row[ ]
- puts row[ ]
- puts row[ ]
- puts row[ ]
- puts row[ ]
- puts row[ ]
-
 lib/board.rb = board 
+
+board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+ puts row[ ]
+ puts row[ ]
+ puts row[ ]
+ puts row[ ]
+ puts row[ ]
+ puts row[ ]
+ puts row[ ]
+ puts row[ ]
+ puts row[ ]
 end 
