@@ -10,6 +10,6 @@ row = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
  puts row[ ]
  puts row[ ]
  puts row[ ]
-board = lib/board.rb
-
+blib/board.rb
+oard = 
 end 
