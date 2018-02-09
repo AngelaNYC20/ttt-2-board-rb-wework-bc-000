@@ -1,5 +1,6 @@
 # Define the variable board below.
 
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
-
-board = lib/board.rb
+ row[ ]
+ row[ ]
+ board = lib/board.rb
