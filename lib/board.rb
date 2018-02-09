@@ -1,6 +1,6 @@
 # Define the variable board below.
 
-def 
+def display_board
 
    |   |
 ---------     
