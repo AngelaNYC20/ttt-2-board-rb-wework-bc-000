@@ -6,7 +6,7 @@
 
 
 
-lib/board.rb = board 
+#lib/board.rb = board 
 
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
  puts row[ ]
@@ -19,3 +19,4 @@ board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
  puts row[ ]
  puts row[ ]
 end 
+#
